@@ -55,12 +55,12 @@ After seeding. Login details as follows:
 
 | Account Type  | Username | Email | Password |
 | ------------- | -------- | ----- | -------- |
-| Super Admin | cj | cj@cj.com | cj |
-|  Admin | admin | admin@admin.com | cj |
-|  Teacher | teacher | teacher@teacher.com | cj |
-|  Parent | parent | parent@parent.com | cj |
-|  Accountant | accountant | accountant@accountant.com | cj |
-|  Student | student | student@student.com | cj |
+| Super Admin | superadmin | superadmin@admin.com | softobotics |
+|  Admin | admin | admin@admin.com | softobotics |
+|  Teacher | teacher | teacher@teacher.com | softobotics |
+|  Parent | parent | parent@parent.com | softobotics |
+|  Accountant | accountant | accountant@accountant.com | softobotics |
+|  Student | student | student@student.com | softobotics |
 
 #### **FUNCTIONS OF ACCOUNTS** 
 

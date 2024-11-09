@@ -41,11 +41,14 @@ Check Laravel 8 Requirements https://laravel.com/docs/8.x
 **Installation**
 - Use php >=8.2
 - Ensure composer is installed
+- composer update
 - Install dependencies (composer install)
+- Rename .env.example to .env
 - Set Database Credentials & App Settings in dotenv file (.env)
 - Migrate Database (php artisan migrate)
 - Database seed (php artisan db:seed)
 - For prod deployment: [View Tutorial](https://www.hostinger.in/tutorials/how-to-install-laravel-on-ubuntu)
+- Ensure bcmath, gmp extensions for your php version and mysql driver are installed.
 
 **Login Credentials**
 After seeding. Login details as follows:
